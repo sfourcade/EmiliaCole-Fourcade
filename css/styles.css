@@ -3,6 +3,10 @@
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
+  background-color: rgba(255, 255, 255, 0.15);
+  width: 330%;
+  font-size: 75px;
+  z-index: 10;
 }
 .h1-normal{
   font-family: "Raleway", sans-serif;
@@ -15,10 +19,10 @@
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.15);
   color: #1aa085;
   z-index: 10;
-  width: 300%;
+  width: 330%;
 }
 h2 {
   font-family: "Work Sans", sans-serif;
@@ -32,10 +36,10 @@ h2 {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.15);
   color: #1aa085;
   z-index: 10;
-  width: 300%;
+  width: 330%;
 }
 ul {
   list-style: none;
@@ -51,9 +55,10 @@ a {
   font-weight: 400;
   font-style: normal;
   color: grey;
+  padding: 8px 30px;
 }
 .emiliaCole1{
-  width: 55%;
+  width: 70%;
 }
 .emiliaCole1 img{
   width: 100%;
@@ -62,7 +67,7 @@ a {
   display:block;
 }
 .resto {
-  width: 45%;
+  width: 30%;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
