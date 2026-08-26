@@ -1,10 +1,10 @@
-h1-negrita{
+.h1-negrita{
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: bold 700;
   font-style: normal;
 }
-h1-normal{
+.h1-negrita{
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: normal 400;
