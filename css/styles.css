@@ -114,5 +114,12 @@ ol {
   font-weight: 400;
   font-style: normal;
   color: #1aa085;
-  font-size: 12px;
+  font-size: 16px;
+}
+.p-contact3 {
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
 }
